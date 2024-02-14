@@ -1011,10 +1011,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   arPlanManager: {fileID: 25787517}
+  planePrefabBlue: {fileID: 6764498109640800407, guid: 3fe36839863eb4f2ba9477f8d2394d4b, type: 3}
+  PlanePrefabBrown: {fileID: 6961535292089014442, guid: 383ffcd69c53f464ea6361ee5d333513, type: 3}
   blue: {fileID: 2100000, guid: e596b68dd9a7e4b63a5f6925103c2ea1, type: 2}
   brown: {fileID: 2100000, guid: 863693ada478c46daa026eceb8f76f28, type: 2}
   brownButton: {fileID: 1835392209}
   blueButton: {fileID: 996467335}
+  sceneName: ARFoundation
 --- !u!1 &1966991852
 GameObject:
   m_ObjectHideFlags: 0
