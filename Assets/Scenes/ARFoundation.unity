@@ -853,8 +853,8 @@ MonoBehaviour:
   PlanePrefabBrown: {fileID: 6961535292089014442, guid: 383ffcd69c53f464ea6361ee5d333513, type: 3}
   blue: {fileID: 2100000, guid: e596b68dd9a7e4b63a5f6925103c2ea1, type: 2}
   brown: {fileID: 2100000, guid: 863693ada478c46daa026eceb8f76f28, type: 2}
-  _blue: {fileID: 2800000, guid: 5ae28d74c17c645a9811e66d3d9b23da, type: 3}
-  _brown: {fileID: 2800000, guid: f130411900d694af48d4720531c7b55a, type: 3}
+  _blue: {fileID: 2800000, guid: 6c6a9dd8f5fda4a12a66f41ecd9a981d, type: 3}
+  _brown: {fileID: 2800000, guid: e0433c9247de644dc8c39aa63f11c669, type: 3}
   brownButton: {fileID: 1835392209}
   blueButton: {fileID: 996467335}
   sceneName: ARFoundation
